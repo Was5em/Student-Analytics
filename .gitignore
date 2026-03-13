@@ -1,0 +1,25 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# IDEs
+.idea/
+*.iml
+.eclipse/
+.classpath
+.project
+.settings/
+
+# Encrypted test files (never commit sensitive data)
+*.enc
+*.secured
+
+# OS
+.DS_Store
+Thumbs.db
